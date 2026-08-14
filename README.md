@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola! Soy Vicente 👋</h1>
 <h3 align="center">Data Analyst</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Perfil%20visitado&color=0e75b6&style=flat" alt="visitas" />
-</p>
-
 ---
 
 ### 🔎 Sobre mí
