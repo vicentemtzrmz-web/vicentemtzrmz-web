@@ -35,7 +35,7 @@ Cruce de datos de TomTom y OCDE para explorar la relación entre congestión via
 Análisis del embudo de conversión de una plataforma de e-commerce: desde la primera visita hasta la compra, incluyendo cohortes de retención. Consultas SQL con CTEs y métricas de funnel.
 `SQL` `CTEs` `Cohort Analysis`
 
-**📊 Analisis de RappiPlus con Dashboar ejecutivo**
+**📊 Analisis de RappiPlus con Dashboard ejecutivo**
 Modelo de datos con medidas DAX personalizadas, columnas calculadas y análisis de crecimiento de ventas sobre un dataset de e-commerce.
 `Power BI` `DAX` `Modelado de datos`
 
